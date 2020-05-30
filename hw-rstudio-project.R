@@ -2,7 +2,7 @@ library(magrittr); library(ggplot2)
 
 source("R/utils.R")
 
-x <- "Bruno"
+x <- "Francisco"
 
 df <- get_freq_nome(x)
 
